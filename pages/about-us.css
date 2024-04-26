@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif  
+}
+
+.about-description {
+    text-align: center;
+    max-width: 100%;
+    margin: 20px auto;
+    padding: 0 20px;
+    line-height: 1.6;
+}
+.about-description h1{
+    font-size: 45px;
+    font-weight: 700;
+    text-decoration: underline;
+}
+.about-description h2{
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+.about-description p{
+    font-size: 20px;
+    margin: 0 auto 20px;
+    max-width: 50%;
+}
+
+.description{
+    margin-bottom: 50px;
+}
+
+.offer{
+    margin: 50px auto 50px;
+    background-color: #000;
+    width: 100%;
+}
+
+.offer h2, .offer p{
+    color: #fff;
+}
